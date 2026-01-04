@@ -1,0 +1,10 @@
+velos:
+  - marque: Look
+    modele: 576
+    prix: 1200
+  - marque: Btwin
+    modele: Riverside
+    prix: 850
+  - marque: Peugeot
+    modele: LR01
+    prix: 450
