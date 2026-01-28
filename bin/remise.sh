@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Remise accordee aux clients fideles.
 
-REMISE_FIDELITE=10
+. "$(dirname "$0")/config.sh"
 
 remise_fidelite() {
     montant=$1
