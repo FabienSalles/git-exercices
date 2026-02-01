@@ -6,3 +6,4 @@ RACINE="$(dirname "$0")/.."
 
 echo "Devis ConveyCycles"
 echo "Total remise : $(remise_fidelite 3000)"
+echo "TVA non applicable, article 293 B du CGI"
