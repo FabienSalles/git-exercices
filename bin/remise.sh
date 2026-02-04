@@ -5,5 +5,5 @@
 
 remise_fidelite() {
     montant=$1
-    echo $(( montant * (100 - REMISE_FIDELITE) / 100 ))
+    echo $(( montant - montant * REMISE_FIDELITE / 100 ))
 }
