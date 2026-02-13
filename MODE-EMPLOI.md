@@ -5,3 +5,5 @@
 Exemple de sortie :
 
     3000
+
+Le calcul de TVA vit dans bin/tva.sh.
