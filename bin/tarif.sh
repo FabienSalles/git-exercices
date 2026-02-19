@@ -2,7 +2,7 @@
 # Calcule le tarif du catalogue.
 
 RACINE="$(dirname "$0")/.."
-. "$RACINE/lib/tva.sh"
+. "$RACINE/bin/tva.sh"
 
 total_ht() {
   total=0
