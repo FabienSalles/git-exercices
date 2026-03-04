@@ -2,3 +2,6 @@ contact:
   prenom: Jean
   nom: Dupont
   ville: Paris
+contact_secondaire:
+  prenom: Alice
+  nom: Martin
