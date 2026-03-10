@@ -9,3 +9,5 @@ Exemple de sortie :
 Le calcul de TVA vit dans bin/tva.sh.
 
 Projet interne ConveyCycles.
+
+Voir CHANGELOG.md pour l'historique des versions.
