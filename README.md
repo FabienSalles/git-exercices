@@ -1,3 +1,3 @@
 # Exercice Fichiers magiques
 
-Enonce en cours de redaction.
+Voir l'enonce fourni par le formateur.
