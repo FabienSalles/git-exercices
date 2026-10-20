@@ -1,3 +1,4 @@
 trottinette:
   marque: Xiaomi
   modele: Pro 2
+  autonomie_km: 45
