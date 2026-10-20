@@ -1,0 +1,4 @@
+api:
+  url: https://api.partenaire.example.com/v1
+  cle_api: CVC-PART-7f3a1c9d5e820b46a1
+  timeout: 30
