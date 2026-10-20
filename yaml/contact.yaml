@@ -1,8 +1,9 @@
 contact:
-    firstname: Fabien
-    lastname: Salles
+    prenom: Fabien
+    npm: Salles
     email: training-git@fabiensalles.com
-    birthdate: 1991-02-01
-    address:
-        city: Paris
-        postcode: 75017
+    dateNaissance: 1991-02-01
+    adresse:
+        ville: Paris
+        codePostal: 75017
+
